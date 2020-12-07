@@ -1,0 +1,29 @@
+        1         2         3         4         5         6         7         8        
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+--------------------------------*---******---------------------*-*-----------------*--**
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+---------------------------------------------------------------*------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTGTCCCCAATGAGTTTAAGCAATCGG
+--------------------------------*-----*--------------------------*-----------------*--*-
+GAGCAGCTGAACAAGCTGATGACCACCCTCCACAGCACTGCACCCCATTTTGTCCGCTGTATTGTGCCCAATGAGTTTAAGCAGTCAG
+--------------------------------*---******---------------------*-*-----------------*--**
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCCG-CA-CCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCG-
+
+Potential mutated locations for each function (sorted by number of sequences with function):
+3 seqs: 33 (T), 37 (A), 38 (C), 40 (G), 41 (C), 42 (A), 66 (C), 84 (A), 87 (G), 88 (G)
+-Possible functions: Eats grapes, Peaks, Blahs, Faith
+2 seqs: 39 (C), 64 (A), 64 (G)
+-Possible functions: White
+1 seqs: 33 (C), 37 (C), 38 (G), 39 (T), 39 (-), 40 (C), 41 (A), 42 (-), 66 (G), 84 (G), 87 (A), 88 (-)
+-Possible functions: Eats peaches, Spits, Trust, Black, Pecks, Brown
+
+Instructions:
+* = mutation
+- = gap
+-The top line indicates gaps/mutation for the OVERALL alignment, while the gaps/mutation
+between sequences for each PAIR.
+-For the "Potential mutated" section, the "# seq" indicates how many sequences contain
+each INDIVIDUAL function (listed just below) and the #s following indicate possible mutation
+locations (the numbers header should help for reference).
+-For example, "[func] was found in [X] sequences and could either be the [nucleotide] at
+[location] or [another nucleotide] at [another location]".

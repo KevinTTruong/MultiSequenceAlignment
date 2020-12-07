@@ -1,0 +1,27 @@
+        1         2         3         4         5         6         7         8         9         10         11         12         13         14         15         16       
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCCCCACTTTTCCTCTTGCAGCAGCCAGACTGCCTTCCGGGTCACTGCCATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCCCTCTGAGTCAGGAAACATTTTCAGACCTATGGAAACTGTGAGTGGATCCATTGGAAGGGCAGGCCCACCACCCCGACCCCA
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCCCCACTTTTCCTCTTGCAGCAGCCAGACTGCCTTCCGGGTCACTGCCATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCCCTCTGAGTCAGGAAACATTTTCAGACCTATGGAAACTGTGAGTGGATCCATTGGAAGGGCAGGCCCACCACCCCGACCCCA
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCCCCACTTTTCCTCTTGCAGCAGCCAGACTGCCTTCCGGGTCACTGCCATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCCCTCTGAGTCAGGAAACATTTTCAGACCTATGGAAACTGTGAGTGGATCCATTGGAAGGGCAGGCCCACCACCCCGACCCCA
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCCCCACTTTTCCTCTTGCAGCAGCCAGACTGCCTTCCGGGTCACTGCCATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCCCTCTGAGTCAGGAAACATTTTCAGACCTATGGAAACTGTGAGTGGATCCATTGGAAGGGCAGGCCCACCACCCCGACCCCA
+
+Potential mutated locations for each function (sorted by number of sequences with function):
+1 seqs: None found
+-Possible functions: AF209133.1 Homo sapiens cell-line A431 tumor suppressor p53 (TP53) gene, AF209136.1 Homo sapiens cell-line HN5 tumor suppressor p53 (TP53) gene, AF209134.1 Homo sapiens cell-line HT29 tumor suppressor p53 (TP53) gene, AF209135.1 Homo sapiens cell-line HeLa tumor suppressor p53 (TP53) gene
+4 seqs: None found
+-Possible functions: partial cds
+
+Instructions:
+* = mutation
+- = gap
+-The top line indicates gaps/mutation for the OVERALL alignment, while the gaps/mutation
+between sequences for each PAIR.
+-For the "Potential mutated" section, the "# seq" indicates how many sequences contain
+each INDIVIDUAL function (listed just below) and the #s following indicate possible mutation
+locations (the numbers header should help for reference).
+-For example, "[func] was found in [X] sequences and could either be the [nucleotide] at
+[location] or [another nucleotide] at [another location]".

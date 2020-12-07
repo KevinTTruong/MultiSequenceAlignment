@@ -1,0 +1,19 @@
+* = mutation
+The top line indicates gaps for the OVERALL alignment, while the gaps between sequences indicates mutations for each PAIR.
+
+ --------------------------------*---******---------------------*-*-----------------*--**
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+----------------------------------------------------------------------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+----------------------------------------------------------------------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+----------------------------------------------------------------------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+---------------------------------------------------------------*------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTGTCCCCAATGAGTTTAAGCAATCGG
+----------------------------------------------------------------------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTGTCCCCAATGAGTTTAAGCAATCGG
+--------------------------------*-----*--------------------------*-----------------*--*-
+GAGCAGCTGAACAAGCTGATGACCACCCTCCACAGCACTGCACCCCATTTTGTCCGCTGTATTGTGCCCAATGAGTTTAAGCAGTCAG
+--------------------------------*---******---------------------*-*-----------------*--**
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCCG-CA-CCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCG-

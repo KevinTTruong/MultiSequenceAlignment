@@ -1,0 +1,16 @@
+--------------------------------*---*****----------------------*-*-----------------*--**
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+----------------------------------------------------------------------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+----------------------------------------------------------------------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+----------------------------------------------------------------------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCGG
+---------------------------------------------------------------*------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTGTCCCCAATGAGTTTAAGCAATCGG
+---------------------------------------------------------------*------------------------
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCACCGCACCCCATTTTGTCCGCTGTATTGTCCCCAATGAGTTTAAGCAATCGG
+--------------------------------*-----*------------------------*-*-----------------*--*-
+GAGCAGCTGAACAAGCTGATGACCACCCTCCACAGCACTGCACCCCATTTTGTCCGCTGTATTGTGCCCAATGAGTTTAAGCAGTCAG
+------------------------------------*****----------------------------------------------*
+GAGCAGCTGAACAAGCTGATGACCACCCTCCATAGCC-GC-ACCCCATTTTGTCCGCTGTATTATCCCCAATGAGTTTAAGCAATCG-
